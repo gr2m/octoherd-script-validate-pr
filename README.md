@@ -2,7 +2,7 @@
 
 > octoherd-script-good-pr
 
-[![@latest](https://img.shields.io/npm/v/.svg)](https://www.npmjs.com/package/octoherd-script-validate-pr)
+[![@latest](https://img.shields.io/npm/v/octoherd-script-validate-pr.svg)](https://www.npmjs.com/package/octoherd-script-validate-pr)
 [![Build Status](https://github.com/bdougie/octoherd-script-valid-pr/workflows/Test/badge.svg)](https://github.com/bdougie/octoherd-script-valid-pr/actions?query=workflow%3ATest+branch%3Amain)
 
 ## Usage
